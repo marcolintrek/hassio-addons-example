@@ -15,5 +15,5 @@
     "device": "str"
   },
   "image": "hub/{arch}-coffee-maker",
-  "arch": "armv7"
+  "arch": ["armv7"]
 }

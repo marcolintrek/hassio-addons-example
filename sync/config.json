@@ -16,5 +16,6 @@
     "username": "str",
     "password": "str"
   },
-  "image": "hub/{arch}-sync"
+  "image": "hub/{arch}-sync",
+   "arch": ["armv7"]
 }
