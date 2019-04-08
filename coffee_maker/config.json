@@ -14,5 +14,6 @@
   "schema": {
     "device": "str"
   },
-  "image": "hub/{arch}-coffee-maker"
+  "image": "hub/{arch}-coffee-maker",
+  "arch": "armv7"
 }
